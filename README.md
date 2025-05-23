@@ -1,4 +1,4 @@
-Salary Man
+**Salary Man**
 A Unity 3D top-down obstacle-avoidance game built during my early days of learning game development.
 
 About the Project
