@@ -4,6 +4,7 @@ A Unity 3D top-down obstacle-avoidance game built during my early days of learni
 
 
 **About the Project**
+
 Salary Man is a 3D top-down game where players guide an overworked office employee through a maze of workplace obstacles—from stress and distractions to time traps—all in a race to clock out.
 
 This was one of my first Unity projects. I created it to learn the fundamentals of game development and to go through the entire pipeline from concept to publication. The ultimate goal was to publish it on both Itch.io and the Google Play Store.
